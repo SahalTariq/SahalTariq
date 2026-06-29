@@ -9,7 +9,7 @@
 - 😄 Pronouns: He/Him
 
 ## 🛠️ Skills & Technologies
-[[[![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![React Router](https://img.shields.io/badge/-React_Router-CA4245?logo=react-router&logoColor=white)
