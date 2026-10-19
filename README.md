@@ -34,6 +34,37 @@
 
 ## 🔭 Current Projects
 
+🛍️ VideoHub — Full-Stack Video Streaming Platform
+
+[![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF7139?style=flat-square)](https://videohubapplication.netlify.app)
+
+A MERN-based video streaming platform with authentication, video uploads, playlists, comments, likes, and a fully responsive video feed.
+
+Tech Stack:
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?logo=redux&logoColor=white)
+![ReactRouter](https://img.shields.io/badge/-React_Router-CA4245?logo=react-router&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?logo=jsonwebtokens&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/-Cloudinary-3448C5?logo=cloudinary&logoColor=white)
+
+Key Features:
+
+• 🔐 JWT authentication with access & refresh tokens
+• 📤 Video and thumbnail upload via Cloudinary
+• 📺 Responsive video feed and watch page with view tracking
+• 👍 Like / unlike videos and manage comments
+• 📂 Create playlists and add or remove videos
+• 👤 User profile with avatar and cover image
+• 🔒 Protected routes for authenticated users
+• ⚡ State management with Redux Toolkit
+
 🛍️ E-Commerce Website
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF7139?style=flat-square)](https://reacteccomerce.netlify.app/)
 
