@@ -34,7 +34,7 @@
 
 ## 🔭 Current Projects
 
-🛍️ VideoHub — Full-Stack Video Streaming Platform
+### 🛍️ VideoHub — Full-Stack Video Streaming Platform
 
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF7139?style=flat-square)](https://videohubapplication.netlify.app)
 
@@ -65,7 +65,7 @@ Key Features:
 • 🔒 Protected routes for authenticated users
 • ⚡ State management with Redux Toolkit
 
-🛍️ E-Commerce Website
+### 🛍️ E-Commerce Website
 [![Live Demo](https://img.shields.io/badge/🔗_Live_Demo-FF7139?style=flat-square)](https://reacteccomerce.netlify.app/)
 
 A fully responsive e-commerce platform with category-based shopping and seamless checkout experience.
